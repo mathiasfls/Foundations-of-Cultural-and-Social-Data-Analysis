@@ -2,7 +2,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/mathiasfls/Foundations-of-Cultural-and-Social-Data-Analysis/)
 
-In this course, UvA students have an introduction to Python so that they can conduct initial analysis on socio-cultural phenonena using data. Socio-cultural data pose great challenges and offer many opportunities due to their variety and richness, such as historical and literary sources, online social networks and media. During this course, students are introduced to the foundation concepts and techniques for analyzing such a variety of data. 
+In this course, students have an introduction to Python so that they can conduct initial analysis on socio-cultural phenonena using data. Socio-cultural data pose great challenges and offer many opportunities due to their variety and richness, such as historical and literary sources, online social networks and media. During this course, students are introduced to the foundation concepts and techniques for analyzing such a variety of data. 
 
 
 You can run all the notebooks for this course using Colab (link above). If you prefer to work locally, I recommend using Jupyter notebooks which are easily accessible using the [Anaconda interface](https://www.anaconda.com/products/individual). 
