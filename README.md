@@ -1,2 +1,43 @@
-# Foundations-of-Cultural-and-Social-Data-Analysis
-UvA - Foundations of Cultural and Social Data Analysis
+# Foundations of Cultural and Social Data Analysis
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/mathiasfls/Foundations-of-Cultural-and-Social-Data-Analysis/)
+
+
+You can run all the notebooks for this course using Colab (link above). If you prefer to work locally, I recommend using Jupyter notebooks which are easily accessible using the [Anaconda interface](https://www.anaconda.com/products/individual). 
+
+## Syllabus
+
+| Week         | Topic           | Materials  |
+| ------------- |-------------| -----:|
+| 1      | No-class (preparation) | <a href='0_HelloWorld.ipynb'>notebook</a> |
+| 2      | Introduction | <a href='URL'>slides</a> + <a href='1_Python_crash_course.ipynb'>notebook</a> |
+| 3      | Data Cleaning and Basic Statistics | <a href='URL'>slides</a> + <a href='2.1_Pandas.ipynb'>notebook</a> |
+| 4      | Data Analysis: Exploring your data | <a href='URL'>slides</a> + notebooks <a href='2.2_Tidy_data.ipynb'>1</a>, <a href='2.3_Wrangling.ipynb'>2</a> |
+| 5      | Visualizing your data | <a href='URL'>slides</a> + notebooks <a href='3.1_More_pandas.ipynb'>1</a>, <a href='3.2_Exploratory_data_analysis.ipynb'>2</a> |
+| 6      | Enough data? | <a href='https://docs.google.com/presentation/d/1NK9fccI6DTDbGhdlMMZzv-B3I3Oo0bSIZpvrppVTcYg/edit?usp=sharing'>slides</a> + <a href='4.1_Outliers_sampling.ipynb'>notebook</a> |
+| Extra      | Modelling data  | <a href='6.1_Modelling.ipynb'>notebook</a> |
+
+## Datasets
+
+We mostly use these datasets(https://github.com/mromanello/ADA-DHOxSS/tree/master/data), from the [Applied Data Analysis course](https://github.com/mromanello/ADA-DHOxSS).
+
+## Assignments
+
+See the [assignments folder](assignments/).
+
+## Readings
+
+TBI.
+A good companion for this course is [John Canning, *Statistics for the Humanities*, 2014](http://statisticsforhumanities.net/book/). Also recommended are [Melanie Walsh, *Introduction to Cultural Analytics & Python*, 2021](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html) and [Karsdorp, Kestemont, Riddell, *Humanities Data Analysis: Case Studies with Python*, 2021](https://www.humanitiesdataanalysis.org/index.html).
+
+## License
+
+Everything in this repository which is not already attributed to someone else is released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). 
+
+<!--  
+## Acknowledgements
+
+The contents of this course are in part based on the following courses:
+* [Applied Data Analysis](https://github.com/mromanello/ADA-DHOxSS) (with Matteo Romanello).
+* [Coding the Humanities](https://github.com/Giovanni1085/UvA_CDH_2020).
+-->
