@@ -35,6 +35,11 @@ TBD.
 
 A good companion for this course is [John Canning, *Statistics for the Humanities*, 2014](http://statisticsforhumanities.net/book/). Also recommended are [Melanie Walsh, *Introduction to Cultural Analytics & Python*, 2021](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html) and [Karsdorp, Kestemont, Riddell, *Humanities Data Analysis: Case Studies with Python*, 2021](https://www.humanitiesdataanalysis.org/index.html).
 
+## Author
+
+Mathias-Felipe de-Lima-Santos (Ph.D.) is a postdoctoral researcher in the Human(e) AI project(https://humane-ai.nl/) at the University of Amsterdam, Netherlands. He is also a faculty associate in the Digital Media and Society Observatory (DMSO)(https://dmso.unifesp.br/) at the Federal University of São Paulo (Unifesp), Brazil. Previously, he was a researcher at the University of Navarra, Spain, under the JOLT project(https://joltetn.eu/), a Marie Skłodowska-Curie European Training Network funded by the European Commission’s Horizon 2020. He was also a Visiting Researcher(https://research.qut.edu.au/dmrc/people/mathias-felipe-de-lima-santos/) at the Queensland University of Technology (QUT) in Brisbane, Australia. Mathias-Felipe is co-editor of the book “Journalism, Data, and Technology in Latin America” (https://doi.org/10.1007/978-3-030-65860-1) published by Palgrave Macmillan in 2021. His research interests include the changing nature of communications driven by technological innovations, particularly in journalism, media, and online social networks. 
+
+
 ## License
 
 Everything in this repository which is not already attributed to someone else is released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). 
