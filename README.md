@@ -31,7 +31,8 @@ See the [assignments folder](assignments/).
 
 ## Readings
 
-TBI.
+TBD.
+
 A good companion for this course is [John Canning, *Statistics for the Humanities*, 2014](http://statisticsforhumanities.net/book/). Also recommended are [Melanie Walsh, *Introduction to Cultural Analytics & Python*, 2021](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html) and [Karsdorp, Kestemont, Riddell, *Humanities Data Analysis: Case Studies with Python*, 2021](https://www.humanitiesdataanalysis.org/index.html).
 
 ## License
