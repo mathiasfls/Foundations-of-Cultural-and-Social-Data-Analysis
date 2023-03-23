@@ -13,7 +13,7 @@ You can run all the notebooks for this course using Colab (link above). If you p
 | ------------- |-------------| -----:|
 | 0      | Preparation (Giovanni Colavizza's Material)| <a href='0_HelloWorld.ipynb'>notebook</a> |
 | 1      | Introduction (Giovanni Colavizza's Material) | <a href='https://docs.google.com/presentation/d/1L94iFr8Kx1893mkrCW21V63Jq_k4pT0oCHV5IqpPHDo/edit?usp=sharing'>slides</a> + <a href='1_Python_crash_course.ipynb'>notebook</a> |
-| 2      | Data Gathering and Cleaning + Foundation of Statistics | <a href='https://drive.google.com/file/d/1RcDlqrdqASgBjo9jrdvS1rhrjjPfVog0/view?usp=sharing'>slides</a> + <a href='2.1_Pandas.ipynb'>notebook</a> |
+| 2      | Data Gathering and Cleaning + Foundation of Statistics | <a href='https://drive.google.com/file/d/1RcDlqrdqASgBjo9jrdvS1rhrjjPfVog0/view?usp=sharing'>slides</a> + <a href='2_Hands_on.ipynb'>notebook</a> |
 | 3      | Data Analysis: Exploring your data | <a href='URL'>slides</a> + <a href='2.2_Tidy_data.ipynb'>notebook</a> |
 | 4      | Combining Data | <a href='URL'>slides</a> + <a href='3.1_More_pandas.ipynb'>notebook</a> |
 | 5      | Visualizing your data | <a href='https://docs.google.com/presentation/d/1NK9fccI6DTDbGhdlMMZzv-B3I3Oo0bSIZpvrppVTcYg/edit?usp=sharing'>slides</a> + <a href='4.1_Outliers_sampling.ipynb'>notebook</a> |
