@@ -37,6 +37,9 @@ See the [assignments folder](assignments/).
 - Mahmoud, Raghda, and Shaima’a Z. Zoghaib. 2023. “The Effects of Different Data Visualisation Formats on News Recall and Comprehension.” Media Watch, March, 097609112311587. https://doi.org/10.1177/09760911231158746
 - Jansen, Yvonne, Pierre Dragicevic, Petra Isenberg, Jason Alexander, Abhijit Karnik, Johan Kildal, Sriram Subramanian, and Kasper Hornbæk. 2015. “Opportunities and Challenges for Data Physicalization.” Conference on Human Factors in Computing Systems - Proceedings 2015-April (April): 3227–36. https://doi.org/10.1145/2702123.2702180
 - Lenzi, Sara, and Paolo Ciuccarelli. 2020. “Intentionality and Design in the Data Sonification of Social Issues.” Big Data & Society 7 (2): 205395172094460. https://doi.org/10.1177/2053951720944603
+- Boss, Katherine, and Meredith Broussard. 2017. “Challenges of Archiving and Preserving Born-Digital News Applications.” IFLA Journal 43 (2): 150–57. https://doi.org/10.1177/0340035216686355
+- Heravi, Bahareh, Kathryn Cassidy, Edie Davis, and Natalie Harrower. 2021. “Preserving Data Journalism: A Systematic Literature Review.” Journalism Practice, March, 1–23. https://doi.org/10.1080/17512786.2021.1903972
+- Broussard, Meredith, and Katherine Boss. 2018. “Saving Data Journalism.” Digital Journalism 6 (9): 1206–21. https://doi.org/10.1080/21670811.2018.1505437 
 
 
 A good companion for this course is [John Canning, *Statistics for the Humanities*, 2014](http://statisticsforhumanities.net/book/). Also recommended are [Melanie Walsh, *Introduction to Cultural Analytics & Python*, 2021](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html) and [Karsdorp, Kestemont, Riddell, *Humanities Data Analysis: Case Studies with Python*, 2021](https://www.humanitiesdataanalysis.org/index.html).
