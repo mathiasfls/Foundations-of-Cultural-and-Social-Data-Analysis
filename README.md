@@ -15,8 +15,8 @@ You can run all the notebooks for this course using Colab (link above). If you p
 | 1      | Introduction (Giovanni Colavizza's Material) | <a href='https://docs.google.com/presentation/d/1L94iFr8Kx1893mkrCW21V63Jq_k4pT0oCHV5IqpPHDo/edit?usp=sharing'>slides</a> + <a href='1_Python_crash_course.ipynb'>notebook</a> |
 | 2      | Data Gathering and Cleaning + Foundation of Statistics | <a href='https://www.canva.com/design/DAFd3atBcFg/4I3E3QVQlGGQi2e4WqfMzw/view?utm_content=DAFd3atBcFg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink'>slides</a> + <a href='2_Hands_on.ipynb'>notebook</a> |
 | 3      | Data Analysis: Exploring your data | <a href='https://www.canva.com/design/DAFekLA845U/Lvl3Ql8xYMDUyQj0m7sBgQ/view?utm_content=DAFekLA845U&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink'>slides</a> + <a href='3_Hands_on.ipynb'>notebook</a> |
-| 4      | Combining Data | <a href='URL'>slides</a> + <a href='4_Hands_on.ipynb'>notebook</a> |
-| 5      | Visualizing your data | <a href='https://docs.google.com/presentation/d/1NK9fccI6DTDbGhdlMMZzv-B3I3Oo0bSIZpvrppVTcYg/edit?usp=sharing'>slides</a> + <a href='4.1_Outliers_sampling.ipynb'>notebook</a> |
+| 4      | Combining Data | <a href='https://www.canva.com/design/DAFfOQnK3wE/7c5unzeorGG1lSyJ4FH_jQ/view?utm_content=DAFfOQnK3wE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink'>slides</a> + <a href='4_Hands_on.ipynb'>notebook</a> |
+| 5      | Visualizing your data | <a href='SLIDES'>slides</a> + <a href='4.1_Outliers_sampling.ipynb'>notebook</a> |
 <!-- | Extra      | Modelling data  | <a href='6.1_Modelling.ipynb'>notebook</a> |-->
 
 ## Datasets
