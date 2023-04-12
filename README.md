@@ -16,7 +16,7 @@ You can run all the notebooks for this course using Colab (link above). If you p
 | 2      | Data Gathering and Cleaning + Foundation of Statistics | <a href='https://www.canva.com/design/DAFd3atBcFg/4I3E3QVQlGGQi2e4WqfMzw/view?utm_content=DAFd3atBcFg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink'>slides</a> + <a href='2_Hands_on.ipynb'>notebook</a> |
 | 3      | Data Analysis: Exploring your data | <a href='https://www.canva.com/design/DAFekLA845U/Lvl3Ql8xYMDUyQj0m7sBgQ/view?utm_content=DAFekLA845U&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink'>slides</a> + <a href='3_Hands_on.ipynb'>notebook</a> |
 | 4      | Combining Data | <a href='https://www.canva.com/design/DAFfOQnK3wE/7c5unzeorGG1lSyJ4FH_jQ/view?utm_content=DAFfOQnK3wE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink'>slides</a> + <a href='4_Hands_on.ipynb'>notebook</a> |
-| 5      | Visualizing your data | <a href='SLIDES'>slides</a> + <a href='4.1_Outliers_sampling.ipynb'>notebook</a> |
+| 5      | Visualizing your data | <a href='https://www.canva.com/design/DAFf4GQZA-w/m_JGsbOKHV73v_BX1Exc8A/edit?utm_content=DAFf4GQZA-w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton'>slides</a> |
 <!-- | Extra      | Modelling data  | <a href='6.1_Modelling.ipynb'>notebook</a> |-->
 
 ## Datasets
