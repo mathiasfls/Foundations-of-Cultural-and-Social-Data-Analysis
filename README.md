@@ -1,4 +1,4 @@
-# Foundations of Cultural and Social Data Analysis
+# University of Amsterdam (UvA) - Foundations of Cultural and Social Data Analysis
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/mathiasfls/Foundations-of-Cultural-and-Social-Data-Analysis/)
 
